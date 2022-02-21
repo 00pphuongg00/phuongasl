@@ -1,4 +1,4 @@
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://phuongasl.vercel.app/api/spotify)](https://open.spotify.com/user/rv7rhj0q6kbjejxzq8rtzj6qb)
 
 
 
