@@ -6,6 +6,10 @@
     <img width="19.5%" height="150px" align="center" src="https://66.media.tumblr.com/706353779f24a3405b0b2f740359e534/tumblr_o6inxcuksL1sdqa1xo1_500.gif"/>
 </a>
 
+
+[![Spotify](https://phuongasl-phuongasl.vercel.app/api/spotify)](https://open.spotify.com/user/rv7rhj0q6kbjejxzq8rtzj6qb)
+
+
 <h1 align="right">Hi <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px" height="30px">, I'm Phuong</h1>
 <h3 align="right">I'm a passionate Front-End Developer from VietNam.</h3>
 
