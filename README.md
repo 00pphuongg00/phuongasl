@@ -63,6 +63,7 @@
 </p>
 
 ## 📊 | My Github Stats
+
 <p>
    <a href="https://github.com/phuongasl">![Phuong's github activity graph](https://activity-graph.herokuapp.com/graph?username=phuongasl&theme=redical)</a>
 </p>
