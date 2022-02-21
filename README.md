@@ -7,7 +7,7 @@
 </a>
 
 
-[![Spotify](https://phuongasl-phuongasl.vercel.app/api/spotify)](https://open.spotify.com/user/rv7rhj0q6kbjejxzq8rtzj6qb)
+[![Spotify](https://phuongasl.vercel.app/api/spotify)](https://open.spotify.com/user/rv7rhj0q6kbjejxzq8rtzj6qb)
 
 
 <h1 align="right">Hi <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px" height="30px">, I'm Phuong</h1>
