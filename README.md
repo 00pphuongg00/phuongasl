@@ -1,9 +1,5 @@
 <a href="#" align="center">
-    <img width="19.5%" height="150px" align="center" src="https://pin.it/4AfldZR"/>
     <img width="19.5%" height="150px" align="center" src="https://steamuserimages-a.akamaihd.net/ugc/956336058818939214/D9550A48824F821975C7430FAB140243B9CF393A/"/>
-    <img width="19.5%" height="150px" align="center" src="https://media3.giphy.com/media/Y1XPTR7bhm2HpqZh2h/giphy.gif"/>
-    <img width="19.5%" height="150px" align="center" src="https://img.memecdn.com/congratulations-to-memecenters-gif-maker_o_975619.gif"/>
-    <img width="19.5%" height="150px" align="center" src="https://66.media.tumblr.com/706353779f24a3405b0b2f740359e534/tumblr_o6inxcuksL1sdqa1xo1_500.gif"/>
 </a>
 
 <h1 align="right">Hi <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px" height="30px">, I'm Phuong</h1>
