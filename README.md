@@ -1,23 +1,10 @@
-<a href="#" align="center">
+<!-- <a href="#" align="center">
     <img width="19.5%" height="150px" align="center" src="https://steamuserimages-a.akamaihd.net/ugc/956336058818939214/D9550A48824F821975C7430FAB140243B9CF393A/"/>
-</a>
+</a> -->
 
 <h1 align="right">Hi <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30px" height="30px">, I'm Phuong</h1>
 <h3 align="right">I'm a passionate Front-End Developer from VietNam.</h3>
 
-<!-- ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
-
-- 📫 How to reach me **subham.raoniar@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.** -->
 
 ## 🚀 | Program Languages
 
